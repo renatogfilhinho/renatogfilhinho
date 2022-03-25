@@ -1,4 +1,4 @@
-### Oi, eu sou o Renato Gasparoto Filhinho e espero aprender e contribuir muito por aqui 👋
+### Oi, eu sou o Renato Gasparoto Filhinho e espero aprender e contribuir muito por aqui !!!
 
 
 - 🔭 Trabalho atualmente com Infraestrutura e Cloud Azure ...
@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/renatogfilhinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogfilhinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogfilhinho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogfilhinho&layout=compact&langs_count=3&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,7 +21,6 @@
   <img align="center" alt="Renato-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Renato-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    
 </div>
   
   ##
