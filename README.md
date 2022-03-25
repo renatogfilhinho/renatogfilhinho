@@ -1,4 +1,4 @@
-### Oi, eu sou o Renato Gasparoto Filhinho 👋
+### Oi, eu sou o Renato Gasparoto Filhinho e espero aprender e contribuir muito por aqui 👋
 
 
 - 🔭 Trabalho atualmente com Infraestrutura e Cloud Azure ...
