@@ -5,9 +5,9 @@
 - 🖥 Sou formado em Redes de Computadores e Pós-graduado em Segurança e Gerenciamento de Computadores ...
 - 🌱 Estou estudando Docker, Git, Bash Shell, Linux, Azure Cloud e por aí vai  ...
 
-<div align="center">
-  <a href="https://github.com/renatogfilhinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogfilhinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+;<div align="center">
+ ; <a href="https://github.com/renatogfilhinho">
+ ; <img height="180em" src="https://github-readme-stats.vercel.app/api?;username=renatogfilhinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
   
