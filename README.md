@@ -1,10 +1,5 @@
 ### Oi, eu sou o Renato e espero aprender e contribuir muito por aqui !!!
 
-
-- 🔭 Trabalho atualmente com consultorias em Infraestrutura de TI e Azure Cloud ...
-- 🖥  Sou formado em Redes de Computadores e Pós-graduado em Segurança e Gerenciamento de Computadores ...
-- 🌱 Vamos evoluir em Docker, Git, Shell Bash, Linux, Azure Cloud e mais tecnologias juntos?
-
 <div align="center">
   <a href="https://github.com/renatogfilhinho">
   
