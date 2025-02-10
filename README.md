@@ -1,4 +1,4 @@
-### Oi, eu sou o Renato, espero aprender, contribuir e compartilhar muitos projetos por aqui !!!
+### Oi, espero aprender, contribuir e compartilhar muitos projetos por aqui !!!
 
 <div align="center">
   <a href="https://github.com/renatogfilhinho">
