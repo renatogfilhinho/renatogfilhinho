@@ -1,4 +1,4 @@
-### Oi, espero aprender, contribuir e compartilhar muitos projetos por aqui !!!
+### Oi, espero aprender, contribuir e compartilhar muitos guias, tutoriais e projetos por aqui !!!
 
 <div align="center">
   <a href="https://github.com/renatogfilhinho">
